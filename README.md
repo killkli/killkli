@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🌱 目前在非營利組織工作，提供快速交付的小型網頁軟體應用（學習工具、資料管理、統計分析等）
 
-- 📫 Feel free to reach me out **dchensterebay@gmail.com**
+- 📫 Feel free to reach me out **devilchen@killkli.cc**
 <!--Intro end-->
 
 
