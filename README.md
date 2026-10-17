@@ -23,7 +23,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Programing can help people in needs</h2></summary>
+    <summary><h2 style="display: inline-block">Programming can help people in need</h2></summary>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@
 <!--Intro start-->
 - 🌱 目前在非營利組織工作，提供快速交付的小型網頁軟體應用（學習工具、資料管理、統計分析等）
 
-- 📫 Feel free to reach me out **devilchen@killkli.cc**
+- 📫 Feel free to reach out to me at **devilchen@killkli.cc**
 <!--Intro end-->
 
 
@@ -44,13 +44,13 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=killkli&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=killkli&theme=dark&hide_border=false" /> 
+  <br>
+  <img  title="🔥 Get streak stats for your profile at streak-stats.demolab.com" alt="Mark streak" src="https://streak-stats.demolab.com/?user=killkli&theme=dark&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=killkli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=killkli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -59,11 +59,9 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=killkli&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+      <img align="center" width=84% src="https://github-trophies.vercel.app/?username=killkli&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
 
 </p>        
@@ -86,7 +84,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=killkli&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=killkli&style=flat-square&color=blueviolet)](https://komarev.com/ghpvc/)
   
 </div>
 
