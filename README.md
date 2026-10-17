@@ -84,7 +84,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=killkli&style=flat-square&color=blueviolet)](https://komarev.com/ghpvc/)
+[![](https://count.getloli.com/get/@killkli?theme=capoo-2)](https://count.getloli.com)
   
 </div>
 
